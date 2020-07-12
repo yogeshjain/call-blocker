@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Call Blocker</string>
+    <string name="lbl_name">Name</string>
+    <string name="lbl_number">Number</string>
+    <string name="lbl_unblock_number">Unblock number</string>
+    <string name="msg_add_number">Add number to blacklist</string>
+    <string name="lbl_contacts">Contacts</string>
+    <string name="msg_invalid_number">Please enter a valid number</string>
+</resources>
